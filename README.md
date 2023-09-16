@@ -60,7 +60,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](will paste the link here)
+- [Live Demo Link](https://gentle-dodol-8db568.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
